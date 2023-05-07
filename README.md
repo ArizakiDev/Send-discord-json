@@ -14,4 +14,4 @@ pause`
 
 - le script se met à jours toutes les minutes
 
-- Amusez-vous. faites "!update" pour forcer la mise à jours
+- Amusez-vous. Faites "!update" pour forcer la mise à jours
